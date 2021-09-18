@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\ModuleCardTheme.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\ScrollBar.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\TextInputTheme.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker_MarkupCompile.cache
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker_MarkupCompile.lref
+C:\Users\User\Desktop\Time Tracker\Time Tracker\bin\Debug\net5.0-windows\Time Tracker.exe
+C:\Users\User\Desktop\Time Tracker\Time Tracker\bin\Debug\net5.0-windows\Time Tracker.deps.json
+C:\Users\User\Desktop\Time Tracker\Time Tracker\bin\Debug\net5.0-windows\Time Tracker.runtimeconfig.json
+C:\Users\User\Desktop\Time Tracker\Time Tracker\bin\Debug\net5.0-windows\Time Tracker.runtimeconfig.dev.json
+C:\Users\User\Desktop\Time Tracker\Time Tracker\bin\Debug\net5.0-windows\Time Tracker.dll
+C:\Users\User\Desktop\Time Tracker\Time Tracker\bin\Debug\net5.0-windows\ref\Time Tracker.dll
+C:\Users\User\Desktop\Time Tracker\Time Tracker\bin\Debug\net5.0-windows\Time Tracker.pdb
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\App.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.g.resources
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.AssemblyInfo.cs
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.dll
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\ref\Time Tracker.dll
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.pdb
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tracker.genruntimeconfig.cache
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\HourseSpentOnModuleTheme.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\HourseSpentOnModulesItemTheme.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\SearchBoxTheme.baml
