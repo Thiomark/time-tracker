@@ -346,7 +346,10 @@ namespace Time_Tracker.MVVM.ViewModel
                         SumOfHourseSpentOnModules = HourseSpentOnModules.Sum(item => item.Hours);
                         HourseSpentOnModules_Date = DateTime.Now;
                         HourseSpentOnModules_Hours = 0;
-                        HoursOfSelfStudyRemaing = SelectedContact.remaingHoursOfSelfStudyPerWeek(SelectedContact.Name, HourseSpentOnModules);
+                        if(SelectedContact != null)
+                        {
+                            HoursOfSelfStudyRemaing = SelectedContact.remaingHoursOfSelfStudyPerWeek(SelectedContact.Name, HourseSpentOnModules);
+                        }
                         onPropertyChanged();
                     }
                 }

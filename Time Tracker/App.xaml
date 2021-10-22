@@ -6,6 +6,7 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Themes/ButtonTheme.xaml"/>
                 <ResourceDictionary Source="Themes/ModuleCardTheme.xaml"/>
                 <ResourceDictionary Source="Themes/ScrollBar.xaml"/>
                 <ResourceDictionary Source="Themes/TextInputTheme.xaml"/>

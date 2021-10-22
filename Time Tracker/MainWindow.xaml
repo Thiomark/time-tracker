@@ -638,9 +638,18 @@
                         Orientation="Horizontal"
                         VerticalAlignment="Center"
                     >
-                        <Border BorderBrush="#DEDEDE" BorderThickness="0" CornerRadius="3" Background="#6CA468" Height="35" Width="120">
+                        <Button     
+                            Background="#6CA468"
+                            Content="Add Module"
+                            FontSize="12" 
+                            Command="{Binding SendCommand}"
+                            Style="{StaticResource ButtonTheme}" 
+                            
+                            />
+                        <!--
+                            <Border BorderBrush="#DEDEDE" BorderThickness="0" CornerRadius="3" Background="#6CA468" Height="35" Width="120">
                             <Button Command="{Binding SendCommand}" Background="Transparent" BorderThickness="0" FontSize="12" FontWeight="Bold" Foreground="White" Content="Add Module"></Button>
-                        </Border>
+                        </Border>-->
                     </StackPanel>
                 </Grid>
             </Grid>

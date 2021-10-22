@@ -28,3 +28,4 @@ C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Time Tr
 C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\HourseSpentOnModuleTheme.baml
 C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\HourseSpentOnModulesItemTheme.baml
 C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\SearchBoxTheme.baml
+C:\Users\User\Desktop\Time Tracker\Time Tracker\obj\Debug\net5.0-windows\Themes\ButtonTheme.baml
